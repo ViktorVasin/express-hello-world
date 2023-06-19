@@ -1,3 +1,5 @@
+[![Viktor](https://github.com/ViktorVasin/express-hello-world/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/ViktorVasin/express-hello-world/actions/workflows/blank.yml)
+
 # Cyclic - Express Hello World
 
 This is a basic starter Expressjs app with:
